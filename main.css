@@ -3,3 +3,6 @@
     margin: auto;
     margin-top: 13px;
 }
+.carousel-inner{
+    top: 5px;
+}
